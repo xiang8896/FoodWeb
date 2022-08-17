@@ -1,0 +1,58 @@
+*{
+    margin:0;
+    padding:0;
+}
+body {
+    background-size: 100%;
+}
+
+.nav{
+    background-color:black;
+    height: 100px;
+    /*display:flex;*/
+    
+}
+.nav img{
+    margin-left: 50px;
+    
+}
+.nav h3{
+    color: white;
+}
+.nav a{
+    text-decoration: none;
+    font-family:'DFKai-sb';
+    font-size: 40px;
+    color:white;
+    float: right;
+    margin:20px 20px 10px;
+}
+a:hover
+{
+    color: red;
+}
+.body1 img{
+    width: 100%;
+}
+address a{
+    text-decoration: none;
+}
+footer{
+
+}
+.con{
+    display:flex;
+    margin: 50px 100px 50px;
+}
+.con table{
+    width: 50%;
+    color:gray;
+    font-family: "DFKai-sb";
+    font-size:40px;
+
+}
+.con iframe{
+    width: 50%;
+
+}
+
