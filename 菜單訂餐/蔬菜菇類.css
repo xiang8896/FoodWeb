@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin:0;
+}
+.vegetableType{
+    width: 1660px;
+    margin:auto;
+    display: flex;
+}
+.item{
+    text-align: center;
+    margin:10px 10px;
+}
+.item button{
+    border: none;
+}

@@ -1,0 +1,24 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+.noodleType{
+    width: 1260px;
+    margin:auto;
+    display: flex;
+}
+.item{
+    width: 100%;
+    text-align: center;
+    margin: 10px 10px;
+    
+}
+.item button{
+    width: 100%;
+    border: none;
+    background-color: white;
+}
+.item h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
